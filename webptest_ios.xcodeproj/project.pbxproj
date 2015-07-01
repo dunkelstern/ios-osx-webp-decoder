@@ -369,8 +369,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "webptest/webptest_ios-Prefix.pch";
-				INFOPLIST_FILE = "webptest/webptest_ios-Info.plist";
+				GCC_PREFIX_HEADER = "webptest_ios/webptest_ios-Prefix.pch";
+				INFOPLIST_FILE = "webptest_ios/webptest_ios-Info.plist";
 				PRODUCT_NAME = webptest_ios;
 				WRAPPER_EXTENSION = app;
 			};
@@ -382,8 +382,8 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "webptest/webptest_ios-Prefix.pch";
-				INFOPLIST_FILE = "webptest/webptest_ios-Info.plist";
+				GCC_PREFIX_HEADER = "webptest_ios/webptest_ios-Prefix.pch";
+				INFOPLIST_FILE = "webptest_ios/webptest_ios-Info.plist";
 				PRODUCT_NAME = webptest_ios;
 				WRAPPER_EXTENSION = app;
 			};
